@@ -1,0 +1,472 @@
+body {
+  background-color: #0D192C;
+}
+
+
+* {
+  font-family: "Inter", system-ui;
+  font-optical-sizing: auto;
+  transition: 0.3s;
+}
+
+.card1:hover {
+  scale: 0.93;
+}
+
+.card2:hover {
+  scale: 0.93;
+}
+
+.card3:hover {
+  scale: 0.93;
+}
+
+.card4:hover {
+  scale: 0.93;
+}
+
+.card5:hover {
+  scale: 0.93;
+}
+
+.card6:hover {
+  scale: 0.93;
+}
+
+.card7:hover {
+  scale: 0.93;
+}
+
+.card8:hover {
+  scale: 0.93;
+}
+
+.card9:hover {
+  scale: 0.93;
+}
+
+.card10:hover {
+  scale: 0.93;
+}
+
+.card11:hover {
+  scale: 0.93;
+}
+
+.card12:hover {
+  scale: 0.93;
+}
+
+.card13:hover {
+  scale: 0.93;
+}
+
+.card14:hover {
+  scale: 0.93;
+}
+
+.card15:hover {
+  scale: 0.93;
+}
+
+.card16:hover {
+  scale: 0.93;
+}
+
+.card17:hover {
+  scale: 0.93;
+}
+
+.card18:hover {
+  scale: 0.93;
+}
+
+.card19:hover {
+  scale: 0.93;
+}
+
+.card20:hover {
+  scale: 0.93;
+}
+
+.card21:hover {
+  scale: 0.93;
+}
+
+.card22:hover {
+  scale: 0.93;
+}
+
+.card23:hover {
+  scale: 0.93;
+}
+
+.card24:hover {
+  scale: 0.93;
+}
+
+.main1 {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.main2 {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+}
+
+.main3 {
+  display: flex;
+  justify-content: start;
+  flex-wrap: wrap;
+}
+
+.main4 {
+  display: flex;
+  justify-content: end;
+  flex-wrap: wrap;
+}
+
+.main5 {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.main6 {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.main7 {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.main8 {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.card1 {
+  background-color: #1c3253;
+  width: 303px;
+  height: 560px;
+  border-radius: 17px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 25px;
+  margin: 40px;
+  cursor: pointer;
+}
+
+.card2 {
+  background-color: #1c3253;
+  width: 303px;
+  height: 560px;
+  border-radius: 17px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 25px;
+  margin: 40px;
+  cursor: pointer;
+}
+
+.card3 {
+  background-color: #1c3253;
+  width: 303px;
+  height: 560px;
+  border-radius: 17px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 25px;
+  margin: 40px;
+  cursor: pointer;
+}
+
+.card4 {
+  background-color: #1c3253;
+  width: 303px;
+  height: 560px;
+  border-radius: 17px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 25px;
+  margin: 40px;
+  cursor: pointer;
+}
+
+.card5 {
+  background-color: #1c3253;
+  width: 303px;
+  height: 560px;
+  border-radius: 17px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 25px;
+  margin: 40px;
+  cursor: pointer;
+}
+
+.card6 {
+  background-color: #1c3253;
+  width: 303px;
+  height: 560px;
+  border-radius: 17px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 25px;
+  margin: 40px;
+  cursor: pointer;
+}
+
+.card7 {
+  background-color: #1c3253;
+  width: 303px;
+  height: 560px;
+  border-radius: 17px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 25px;
+  margin: 40px;
+  cursor: pointer;
+}
+
+.card8 {
+  background-color: #1c3253;
+  width: 303px;
+  height: 560px;
+  border-radius: 17px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 25px;
+  margin: 40px;
+  cursor: pointer;
+}
+
+.card9 {
+  background-color: #1c3253;
+  width: 303px;
+  height: 560px;
+  border-radius: 17px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 25px;
+  margin: 40px;
+  cursor: pointer;
+}
+
+.card10 {
+  background-color: #1c3253;
+  width: 303px;
+  height: 560px;
+  border-radius: 17px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 25px;
+  margin: 40px;
+  cursor: pointer;
+}
+
+.card11 {
+  background-color: #1c3253;
+  width: 303px;
+  height: 560px;
+  border-radius: 17px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 25px;
+  margin: 40px;
+  cursor: pointer;
+}
+
+.card12 {
+  background-color: #1c3253;
+  width: 303px;
+  height: 560px;
+  border-radius: 17px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 25px;
+  margin: 40px;
+  cursor: pointer;
+}
+
+.card13 {
+  background-color: #1c3253;
+  width: 303px;
+  height: 560px;
+  border-radius: 17px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 25px;
+  margin: 40px;
+  cursor: pointer;
+}
+
+.card14 {
+  background-color: #1c3253;
+  width: 303px;
+  height: 560px;
+  border-radius: 17px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 25px;
+  margin: 40px;
+  cursor: pointer;
+}
+
+.card15 {
+  background-color: #1c3253;
+  width: 303px;
+  height: 560px;
+  border-radius: 17px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 25px;
+  margin: 40px;
+  cursor: pointer;
+}
+
+.card16 {
+  background-color: #1c3253;
+  width: 303px;
+  height: 560px;
+  border-radius: 17px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 25px;
+  margin: 40px;
+  cursor: pointer;
+}
+
+.card17 {
+  background-color: #1c3253;
+  width: 303px;
+  height: 560px;
+  border-radius: 17px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 25px;
+  margin: 40px;
+  cursor: pointer;
+}
+
+.card18 {
+  background-color: #1c3253;
+  width: 303px;
+  height: 560px;
+  border-radius: 17px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 25px;
+  margin: 40px;
+  cursor: pointer;
+}
+
+.card19 {
+  background-color: #1c3253;
+  width: 303px;
+  height: 560px;
+  border-radius: 17px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 25px;
+  margin: 40px;
+  cursor: pointer;
+}
+
+.card20 {
+  background-color: #1c3253;
+  width: 303px;
+  height: 560px;
+  border-radius: 17px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 25px;
+  margin: 40px;
+  cursor: pointer;
+}
+
+.card21 {
+  background-color: #1c3253;
+  width: 303px;
+  height: 560px;
+  border-radius: 17px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 25px;
+  margin: 40px;
+  cursor: pointer;
+}
+
+.card22 {
+  background-color: #1c3253;
+  width: 303px;
+  height: 560px;
+  border-radius: 17px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 25px;
+  margin: 40px;
+  cursor: pointer;
+}
+
+.card23 {
+  background-color: #1c3253;
+  width: 303px;
+  height: 560px;
+  border-radius: 17px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 25px;
+  margin: 40px;
+  cursor: pointer;
+}
+
+.card24 {
+  background-color: #1c3253;
+  width: 303px;
+  height: 560px;
+  border-radius: 17px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 25px;
+  margin: 40px;
+  cursor: pointer;
+}
+
+hr {
+  border: none;
+  height: 1px;
+  color: #2E405A;
+  background-color: #2E405A;
+}
+
+h1 {
+  color: white;
+  font-size: 22px;
+}
+
+.p1 {
+  color: #8BACD9;
+  font-size: 17px;
+  padding-top: 7px;
+}
+
+.img2 {
+  padding-top: 10px;
+}
+
+.img3 {
+  padding-top: 15px;
+}
+
+.img4 {
+  padding-top: 15px;
+}
